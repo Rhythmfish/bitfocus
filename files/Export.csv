@@ -1,0 +1,2 @@
+ExportID,SourceType,SourceID,SourceName,SourceContactFirst,SourceContactLast,SourceContactPhone,SourceContactExtension,SourceContactEmail,ExportDate,ExportStartDate,ExportEndDate,SoftwareName,SoftwareVersion,CSVVersion,ExportPeriodType,ExportDirective,HashStatus
+5,1,"Default","https://data-sandbox.clarityhs.com","Thomas","Brittain",,,"thomasb@bitfocus.com","2022-08-01 12:16:46","2012-08-01","2022-08-01","Clarity Human Services","1.0","FY2022v1.1",3,2,1

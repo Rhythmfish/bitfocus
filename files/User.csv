@@ -1,0 +1,35 @@
+UserID,UserFirstName,UserLastName,UserPhone,UserExtension,UserEmail,DateCreated,DateUpdated,DateDeleted,ExportID
+1,"Admin","Admin",,,"admin@bitfocus.com",2014-01-01 00:00:00,2022-04-16 10:11:34,,5
+2,"Tauri","Royce (deleted)",,,"troyce@bitfocus.com",2015-02-25 15:16:26,2020-10-07 11:13:22,2020-10-07 11:13:22,5
+3,"John","Talley (deleted)",,,"jtalley@bitfocus.com",2015-02-25 15:17:01,2019-04-11 09:56:17,2019-04-11 09:56:17,5
+4,"Anna","Hung",,,"annah@bitfocus.com",2015-02-25 15:26:29,2022-03-02 08:20:29,,5
+6,"Kim","Griffith (deleted)",,,"kgriffith@bitfocus.com",2016-09-20 10:50:50,2016-10-10 09:15:17,2016-10-10 09:15:17,5
+7,"Dana","Ayala (deleted)",,,"ayalad@bitfocus.com",2016-10-24 11:51:36,2016-11-28 13:33:14,2016-11-28 13:33:14,5
+8,"Gerald","Reyes (deleted)",,,"geraldr@bitfocus.com",2017-01-24 09:23:39,2017-01-24 15:53:35,2017-01-24 15:53:35,5
+9,"Kerri","Canataro (deleted)",,,"kerric@bitfocus.com",2017-01-24 16:23:31,2020-10-07 11:18:34,2020-10-07 11:18:34,5
+10,"Nathaniel","Scott (deleted)",,,"nates@bitfocus.com",2017-10-20 16:39:44,2020-10-07 11:13:14,2020-10-07 11:13:14,5
+11,"Christi","Moore (deleted)",,,"christim@bitfocus.com",2017-11-09 14:16:18,2017-11-20 12:16:12,2017-11-20 12:16:12,5
+12,"Victor","Lorente (deleted)",,,"victor@bitfocus.com",2018-09-20 01:37:50,2020-10-07 11:13:26,2020-10-07 11:13:26,5
+13,"Kim","Griffith (deleted)",,,"kgriffith@bitfocus.com",2018-10-15 08:53:39,2020-10-07 11:12:56,2020-10-07 11:12:56,5
+14,"Natalie","Sus (deleted)",,,"natalies.dev@bitfocus.com",2019-03-11 02:20:35,2020-10-07 11:13:11,2020-10-07 11:13:11,5
+15,"Oksana","Sukhorukova (deleted)",,,"oksana.suhorukova@bitfocus.com",2019-03-20 02:40:34,2020-10-07 11:13:18,2020-10-07 11:13:18,5
+16,"Eva","Nunes (deleted)",,,"evan@bitfocus.com",2019-06-24 12:54:43,2020-10-07 11:12:51,2020-10-07 11:12:51,5
+17,"Margie","James (deleted)",,,"margiej@bitfocus.com",2019-07-23 08:30:31,2020-10-07 11:13:03,2020-10-07 11:13:03,5
+18,"Harron","Griffin",,,"harrong@bitfocus.com",2020-04-17 12:38:01,2021-02-08 10:17:26,,5
+19,"Alison","Wilson (deleted)",,,"alisonw@bitfocus.com",2020-05-06 10:27:24,2020-10-07 11:12:35,2020-10-07 11:12:35,5
+20,"Wosenie","Zimita",,,"woseniez@bitfocus.com",2020-10-07 11:14:33,2020-11-16 11:49:28,,5
+21,"Danielle","Robadey (deleted)",,,"danieller@bitfocus.com",2020-11-16 11:54:30,2020-11-16 12:53:07,2020-11-16 12:53:07,5
+22,"Danielle","Robadey (deleted)",,,"danieller@bitfocus.com",2021-01-08 12:41:28,2021-01-11 11:55:35,2021-01-11 11:55:35,5
+23,"Danielle","Robadey",,,"danieller@bitfocus.com",2021-02-08 10:18:35,2022-04-04 08:29:24,,5
+24,"Emma","Nunn (deleted)",,,"emman@bitfocus.com",2021-11-01 10:58:02,2021-11-01 12:21:39,2021-11-01 12:21:39,5
+25,"Kadra","Adderly (deleted)",,,"kadraa@bitfocus.com",2021-11-01 10:58:46,2021-11-01 12:21:45,2021-11-01 12:21:45,5
+26,"Alex","Kotylev",,,"alexander.kotylev@bitfocus.com",2022-04-05 02:10:29,2022-04-05 02:10:29,,5
+27,"Eric","Jahn",,,"ericj@bitfocus.com",2022-04-16 10:15:23,2022-04-19 07:15:16,,5
+28,"Thomas","Brittain",,,"thomasb@bitfocus.com",2022-05-06 16:34:16,2022-05-06 16:34:26,,5
+29,"Alison","Wilson",,,"alisonw@bitfocus.com",2022-05-06 16:47:42,2022-05-06 16:52:26,,5
+30,"Tyler","Buck",,,"tylerb@bitfocus.vom",2022-05-06 16:55:00,2022-05-06 16:55:00,,5
+31,"Lauren","Bianchi",,,"laurenb@bitfocus.com",2022-06-15 07:14:14,2022-06-15 07:14:14,,5
+32,"Victor","Lorente",,,"victor@bitfocus.com",2022-06-15 07:20:07,2022-06-15 07:20:07,,5
+33,"Mike","Reed",,,"miker@bitfocus.com",2022-06-15 07:22:45,2022-06-15 07:22:45,,5
+34,"Trevor","Mells",,,"trevorm@bitfocus.com",2022-06-15 07:23:17,2022-06-15 07:23:17,,5
+35,"Fred","Hintz",,,"fredh@bitfocus.com",2022-06-15 07:26:25,2022-06-15 07:26:25,,5

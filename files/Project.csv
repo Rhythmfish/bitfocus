@@ -1,0 +1,6 @@
+ProjectID,OrganizationID,ProjectName,ProjectCommonName,OperatingStartDate,OperatingEndDate,ContinuumProject,ProjectType,HousingType,ResidentialAffiliation,TrackingMethod,HMISParticipatingProject,TargetPopulation,HOPWAMedAssistedLivingFac,PITCount,DateCreated,DateUpdated,UserID,DateDeleted,ExportID
+1,1,"Datalab - TH YHDP",,2018-07-31,,1,2,3,,,1,4,2,,2022-06-08 07:56:58,2022-06-08 07:56:58,27,,5
+2,1,"DataLab - Coordinated Entry",,2010-01-01,,1,14,,,,1,4,2,,2022-06-15 13:29:41,2022-06-15 13:29:41,27,,5
+3,1,"DataLab - ES-EE ESG II (with CE elements)",,2018-05-01,,1,1,1,,0,1,4,2,,2022-06-15 14:09:41,2022-06-15 14:09:41,27,,5
+4,1,"Navigation Station","NS",2022-06-16,2030-01-01,1,14,,,,1,4,0,,2022-06-16 09:42:14,2022-06-16 09:42:14,28,,5
+6,1,"DataLab - ES-EE RHY",,2014-01-01,,1,1,1,,0,1,4,2,,2022-06-27 10:34:07,2022-06-27 10:34:07,27,,5
