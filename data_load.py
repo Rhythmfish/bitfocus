@@ -3,11 +3,6 @@ from pathlib import Path
 import sqlalchemy
 import mysql.connector as msql
 
-# create sqlalchemy engine
-# credentials should be environmental variables in best practice.
-engine_url = "mysql+mysqlconnector://perkins:perkins@45.79.53.180:3306/bitfocus_perkins"
-engine = sqlalchemy.create_engine(engine_url)
-
 # Assign directory
 directory = 'C:\\Users\\Landon\\Python Projects\\bitfocus\\files'
 
