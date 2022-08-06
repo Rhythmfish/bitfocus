@@ -19,9 +19,9 @@ def main():
         
         bf_df.to_sql(file_name, con= engine,chunksize= 1000, method= 'multi', if_exists= 'replace',index=False)
         
-        print(f"loaded {file_name}")
+        print(f"Loaded table: {file_name}")
     
-    print("Upload complete")
+    print("***Upload complete***")
 
 if __name__ == '__main__':
     main()
